@@ -8,3 +8,6 @@
 6. При необходимости скопировать результат - нажмите кнопку "COPY"
 ----------------------
 
+Диаграмма классов
+
+![alt text](https://github.com/IgorAnatolyevich/Currencies/blob/master/CD_Currencies.png)
